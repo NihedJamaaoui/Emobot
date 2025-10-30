@@ -1,0 +1,4 @@
+--developing the application
+-js jsopn html css
+--writing the rapport
+--making a powerpoint version
