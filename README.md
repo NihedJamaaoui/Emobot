@@ -16,8 +16,6 @@ Emobot analyzes messages to estimate emotional states like happiness and sadness
 - **Tools:** JSON, Fetch API, Font Awesome  
 - **Environment:** Browser-based  
 
-## Structure  
-
 ## Author  
 **Nihed Jamaoui**  
 Master 2 – *Advanced Intelligent Systems*, ENSI (Tunisia)  
